@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>191073527386-5n1e89p6u6o9hgoc7sh7vnho5t9m1md2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.191073527386-5n1e89p6u6o9hgoc7sh7vnho5t9m1md2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0wI9HboDfb8W_5YUbzdEpzwpvhzut4XA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>191073527386</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mymessenger</string>
+	<key>PROJECT_ID</key>
+	<string>kuetmessenger</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kuetmessenger.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:191073527386:ios:b95eca163904a7c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://kuetmessenger.firebaseio.com</string>
+</dict>
+</plist>
